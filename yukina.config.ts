@@ -2,11 +2,11 @@ import I18nKeys from "./src/locales/keys";
 import type { Configuration } from "./src/types/config";
 
 const YukinaConfig: Configuration = {
-  title: "Yukina",
-  subTitle: "Yukina Template Demo Site",
-  brandTitle: "Yukina",
+  title: "𝗯𝗹4𝗰𝗸0𝘂𝘁 blog",
+  subTitle: "In the heart there is faith, under the feet there will be a path.",
+  brandTitle: "𝗯𝗹4𝗰𝗸0𝘂𝘁",
 
-  description: "Demo Site",
+  description: "In the heart there is faith, under the feet there will be a path.",
 
   site: "https://capt-bl4ck0ut.github.io",
 
@@ -27,25 +27,29 @@ const YukinaConfig: Configuration = {
     },
     {
       nameKey: I18nKeys.nav_bar_github,
-      href: "https://github.com/WhitePaper233/yukina",
+      href: "https://github.com/capt-bl4ck0ut",
     },
   ],
 
-  username: "WhitePaper 白芷",
-  sign: "Ad Astra Per Aspera.",
-  avatarUrl: "https://s2.loli.net/2025/01/25/FPpTrQSezM8ivbl.webp",
+  username: "𝗯𝗹4𝗰𝗸0𝘂𝘁",
+  sign: "Hack To Learn, Not Learn To Hack",
+  avatarUrl: "https://vjz3r.github.io/_astro/avatar.BVI_3aoR_ZnA609.webp",
   socialLinks: [
     {
       icon: "line-md:github-loop",
-      link: "https://github.com/WhitePaper233",
+      link: "https://github.com/capt-bl4ck0ut",
     },
     {
-      icon: "mingcute:bilibili-line",
-      link: "https://space.bilibili.com/22433608",
+      icon: "line-md:discord",
+      link: "https://discord.com/channels/@me",
     },
     {
-      icon: "mingcute:netease-music-line",
-      link: "https://music.163.com/#/user/home?id=125291648",
+      icon: "line-md:linkedin",
+      link: "https://www.linkedin.com/in/vo-van-phuc/",
+    },
+    {
+      icon: "line-md:facebook",
+      link: "https://www.facebook.com/vanphuc233333?locale=vi_VN",
     },
   ],
   maxSidebarCategoryChip: 6, // It is recommended to set it to a common multiple of 2 and 3
@@ -54,14 +58,11 @@ const YukinaConfig: Configuration = {
   maxFooterTagChip: 24,
 
   banners: [
-    "https://s2.loli.net/2025/01/25/PBvHFjr5yDu6t4a.webp",
-    "https://s2.loli.net/2025/01/25/6bKcwHZigzlM4mJ.webp",
-    "https://s2.loli.net/2025/01/25/H9WgEK6qNTcpFiS.webp",
-    "https://s2.loli.net/2025/01/25/njNVtuUMzxs81RI.webp",
-    "https://s2.loli.net/2025/01/25/tozsJ8QHAjFN3Mm.webp",
-    "https://s2.loli.net/2025/01/25/Pm89OveZq7NWUxF.webp",
-    "https://s2.loli.net/2025/01/25/UCYKvc1ZhgPHB9m.webp",
-    "https://s2.loli.net/2025/01/25/JjpLOW8VSmufzlA.webp",
+    "https://vjz3r.github.io/_astro/banner.CPOmMyYa_ZqD4VL.webp",
+    "https://66.media.tumblr.com/7d7916290ee905bba571911f6f168680/7450bd2ea56fb971-5a/s1280x1920/a51b66e5b81af9b2ccb3712c4ae929c23d7b0e19.gif",
+    "https://i.gifer.com/embedded/download/758a.gif",
+    "https://c.tenor.com/rePDfDWO3XoAAAAd/hacking.gif",
+    "https://cdn.wallpapersafari.com/92/10/iHMTch.gif",
   ],
 
   slugMode: "HASH", // 'RAW' | 'HASH'
