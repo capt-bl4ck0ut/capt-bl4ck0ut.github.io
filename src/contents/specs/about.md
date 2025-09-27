@@ -2,7 +2,7 @@
 Hi, I’m **VanPhuc** `[bl4ck0ut]`.  
  🎓 Student At **Vietnam - Korea University of Information Technology and Communications (VKU)**  
  🔐 Majoring: **Information Security**  
- 🧑‍💻 Member **VKU Security Lab (VSL)**  
+ 🧑‍💻 Member **VKU Security Lab (VSL) and VSL.0utl4w 🏴**  
 
 ### 🏴 Slogan  
 **Hack to learn, not learn to hack**  
